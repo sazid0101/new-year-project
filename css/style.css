@@ -86,3 +86,21 @@
     max-height: 400px;
     padding-right: 50px;
 }
+/*join now section*/
+.join-now{
+    background-color: rgb(240, 195, 202);
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+.red{
+    color: red;
+}
+.btn{
+    border-radius: 5px;
+    background-color: #ed4d1c;
+    color: white;
+    border: 0;
+    font-size: 18px;
+    padding: 10px 15px;
+}
