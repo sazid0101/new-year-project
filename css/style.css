@@ -57,3 +57,32 @@
     max-height: 600px;
     max-width: 600px;
 }
+/*mid-night section*/
+.mid-night{
+    background-image: url("../resources/Vectorrr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    border-radius: 10px;
+    filter: brightness(70%);
+   
+    
+}
+.mid-night-text{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+.mid-night-head{
+    font-size: 70px;
+    width: 500px;
+    color: white;
+}
+.mid-night-description{
+    color: rgb(235, 230, 230);
+}
+.mid-night-img{
+    max-height: 400px;
+    padding-right: 50px;
+}
