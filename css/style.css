@@ -1,3 +1,59 @@
-body{
+*{
+    margin: 20px;
+}
+/*banner part*/
+.Banner{
     background-image: url('../resources/Banner\ Image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    border-radius: 10px;
+    filter: brightness(80%)
+    
+}
+.banner-text{
+    color:white;
+    text-align: center;
+    padding-top: 140px;
+    text-shadow: 2px 2px 4px rgba(22, 21, 21, 0.5);
+    
+    
+}
+.happy{
+    
+    font-size:32px;
+}
+.new{
+    
+    font-size: 80px;
+    
+}
+.celebration{
+    
+    font-size: 80px;
+}
+
+/*discount & new year part*/
+.new-year-section{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.discount{
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.discount-title{
+    color: red;
+    font-weight: bolder;
+}
+.discount-categories{
+    font-size: 30px;
+}
+.discount-img{
+    max-height: 600px;
+    max-width: 600px;
 }
