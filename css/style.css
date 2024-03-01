@@ -139,3 +139,11 @@
     
 }
 /*holiday sale section*/
+.holiday-sale-text{
+    text-align: center;
+    margin-top: 40px;
+}
+.holiday-sale-description{
+    padding-left: 200px;
+    padding-right: 200px;
+}
