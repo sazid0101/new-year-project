@@ -147,3 +147,24 @@
     padding-left: 200px;
     padding-right: 200px;
 }
+.holiday-sale-img{
+    background-image: url("../resources/Rectangle\ 1.png"), url("../resources/Rectangle\ 2.png");
+    background-position: top right,bottom;
+    padding-bottom: 200px ,0px;
+    background-repeat: no-repeat;
+    margin-top: 80px;
+    display: flex;
+    border-radius: 10px;
+}
+.holiday-img-1{
+    width: 450px;
+    height: 350px;
+    padding-top: 200px;
+    padding-left: 20px;
+}
+.holiday-img-2{
+    z-index: 1;
+    width: 400px;
+    padding-bottom: 223px;
+    
+}
