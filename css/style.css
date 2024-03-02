@@ -188,3 +188,27 @@
     padding-bottom: 10px;
     text-align: center;
 }
+.btnlast{
+    padding-left: 0px;
+}
+/*footer part*/
+footer{
+    
+    background-color: #090216;
+    color: white;
+}
+.footer-location{
+    display: flex;
+    justify-content: space-between;
+}
+.media-icon{
+    text-align: center;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.footer-text{
+    display: flex;
+    justify-content: space-between;
+}
