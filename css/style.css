@@ -168,3 +168,16 @@
     padding-bottom: 223px;
     
 }
+/*our awesome portfolio part*/
+.gift-section{
+    width: 700px;
+    margin-top: 40px;
+}
+.gift-img{
+    max-width: 340px;
+}
+.gift-img:hover{
+    /* border: 2px solid red; */
+    transform: scale(1.1);
+    
+}
